@@ -5,8 +5,8 @@ Data and MATLAB scripts for FWAV AI review figures
 
 ## Figure overview
 
-- **Figure 1 – Bibliometric landscape**  
-  ![Fig. 1](figures/fig1.png)
+- **Figure 1b – Long-term evolution of flapping-wing research output and the proportion of AI-driven studies**  
+  ![fig.1a](figures/fig1a_PaperSummarize.png)
 
 - **Figure 2 – Scale distribution of FWAVs**  
   ![Fig. 2](figures/fig2.png)
