@@ -1,7 +1,7 @@
 # Review-on-the-design-of-bio-inspired-flapping-wing-aerial-vehicles-using-artificial-intelligence
 Data and MATLAB scripts for FWAV AI review figures
 
-> Dong Y., He S., Lin D., Abdulrahman Y., "Review on the design of bio-inspired flapping-wing aerial vehicles using artificial intelligence", 2025. :contentReference[oaicite:1]{index=1}
+> Dong Y., He S., Lin D., Abdulrahman Y., "Review on the design of bio-inspired flapping-wing aerial vehicles using artificial intelligence", 2025. 
 
 ## Figure overview
 
